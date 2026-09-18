@@ -86,7 +86,7 @@ a security-first [claude code](https://claude.com/claude-code) plugin
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-1a1b27?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@Kaazyxxdev"><img src="https://img.shields.io/badge/YouTube-1a1b27?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>
 </p>
 
