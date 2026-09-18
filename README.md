@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=kaazyxx&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs&card_width=420" alt="stats" />
+<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=kaazyxx&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&include_all_commits=true&hide=contribs&card_width=420" alt="stats" />
 
 ### whoami
 
@@ -63,15 +63,15 @@ a security-first [claude code](https://claude.com/claude-code) plugin
 ### stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kaazyxx&theme=tokyonight&hide_border=true&card_width=470" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=kaazyxx&theme=tokyonight&hide_border=true&background=00000000&card_width=470" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaazyxx&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaazyxx&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=10" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaazyxx&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution%20graph" alt="activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaazyxx&theme=react-dark&hide_border=true&bg_color=00000000&area=true&custom_title=contribution%20graph" alt="activity" />
 </p>
 
 <p align="center">
