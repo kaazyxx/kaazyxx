@@ -28,7 +28,12 @@ workflows** and a bit of **blender / 3d**.
 
 shipping [**ultimate-dev-toolkit**](https://github.com/kaazyxx/ultimate-dev-toolkit) —
 a security-first [claude code](https://claude.com/claude-code) plugin
-(**353** skills · **112** commands · **72** agents · **27** hooks).
+(**520** skills · **176** commands · **120** agents · **28** hooks · **4** MCP connectors).
+
+```bash
+/plugin marketplace add kaazyxx/ultimate-dev-toolkit
+/plugin install ultimate-dev-toolkit
+```
 
 <a href="https://github.com/kaazyxx/ultimate-dev-toolkit/stargazers"><img src="https://img.shields.io/github/stars/kaazyxx/ultimate-dev-toolkit?style=flat-square&color=e0af68&labelColor=1a1b27&logo=github&label=%E2%98%85" alt="stars" /></a>
 <a href="https://github.com/kaazyxx/ultimate-dev-toolkit/network/members"><img src="https://img.shields.io/github/forks/kaazyxx/ultimate-dev-toolkit?style=flat-square&color=7aa2f7&labelColor=1a1b27&logo=github&label=forks" alt="forks" /></a>
